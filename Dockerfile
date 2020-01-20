@@ -1,1 +1,1 @@
-FROM mortensrasmussen/docker-registry-manifest-cleanup
+FROM mortensrasmussen/docker-registry-manifest-cleanup:latest
